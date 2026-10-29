@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "./midterm_folder"
+		}
+	],
+	"settings": {
+		"editor.rulers": [
+        79
+    ]
+	}
+}
